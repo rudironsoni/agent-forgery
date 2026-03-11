@@ -1,1 +1,4 @@
-../mcp.json
+{
+  "$schema": "https://github.com/dyoshikawa/rulesync/releases/latest/download/mcp-schema.json",
+  "mcpServers": {}
+}

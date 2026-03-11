@@ -1,1 +1,4 @@
-../hooks.json
+{
+  "version": 1,
+  "hooks": {}
+}
