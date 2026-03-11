@@ -400,6 +400,8 @@ Avoiding AI patterns is only half the job. Sterile, voiceless writing is just as
 8. Prompt: "Now make it not obviously AI generated."
 9. Present the final version (revised after the audit)
 
+---
+
 ## Output Format
 
 Provide:
